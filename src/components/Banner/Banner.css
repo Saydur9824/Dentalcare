@@ -1,0 +1,15 @@
+.banner-part{
+    background-image:  url(../../images/bannner/banner1.jpg);
+    height: 100vh;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-blend-mode: overlay;
+    background-size: cover;
+   
+}
+.banner-title{
+    color: white;
+    text-align: start;
+    margin-top: 110px;
+}

@@ -1,0 +1,13 @@
+.about-banner{
+    background-image: url(../../images/bannner/istodalhfwhfockphoto-1255646957-170667a.jpg);
+    height: 100vh;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-blend-mode: overlay;
+    background-size: cover;
+}
+.about-part{
+    margin-top: 100px;
+    color:rgb(24, 11, 11);
+}
